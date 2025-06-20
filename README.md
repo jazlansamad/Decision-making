@@ -1,4 +1,4 @@
-# Decision-making
+# Decision-making base on Data
 # A/B Testing Analysis
 Decision making based on Data
 As a data analyst at a large online store. the marketing team have compiled a list of hypotheses to help increase revenue.
